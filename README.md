@@ -51,7 +51,7 @@ Repositorio en GitHub:
 
 Para revisión, el código completo será gestionado y subido en el siguiente repositorio de GitHub:
 
-https://github.com/usuario/sistema-prevencion-riesgos
+https://github.com/StaRxScreaM/SistemaPrevencion
 
 
 Cristóbal Tapia - 2025
